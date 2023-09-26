@@ -7,7 +7,7 @@ This repository has been archived and is no longer maintained.
 [![GitHub license](https://img.shields.io/github/license/symartin/PyInstru.svg)](https://raw.githubusercontent.com/symartin/PyInstru/main/LICENSE)
 
 ## Description
-[![GitHub license](https://img.shields.io/badge/Made_with_♥️_in_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/symartin/PyInstru)
+[![Made with love in Python](https://img.shields.io/badge/Made_with_♥️_in_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/symartin/PyInstru)
 
 Set of scientific instrument drivers used for low-noise e-test for the 
 microelectronic. The code is originally based on code based on the 
